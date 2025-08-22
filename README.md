@@ -12,6 +12,7 @@
     *Ich inspiriere mich von der Serie die ich Momentan anschaue(Voltron). In der Serie geht es um 5 Teenagers die in einen galaktischen Krieg hineingeraten und die Piloten von fünf robotischen Löwen werden. Sie werden dann Paladins gennant. Meine Idee wäre dann das man von den 5 Paladins auswählen kann und auch ihre Waffen und Löwen anwählen und dann werden ihnen die Bösewichte vom galaktischen krieg im weg stehen und sie müssen sie dann bekämpfen.*
 
 
+Ungefähre Planung:
 
    ![VOLTRONRPG](https://github.com/user-attachments/assets/4d71f062-f307-4bc8-ac6b-ed3f2ad530a8)
 
@@ -37,6 +38,7 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
