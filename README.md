@@ -19,25 +19,25 @@ Ungefähre Planung:
 
 ## 22.8
 
-- [ ] Arbeitspaket 1: Erstellen Sie ein Projekt im VS und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
+- [x] Arbeitspaket 1: Erstellen Sie ein Projekt im VS und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
 - [ ] Arbeitspaket 2: Schreiben Sie eine Liste, welche Klassen und Objekte es braucht, und wie diese miteinander interagieren. Das Format ist Ihnen freigestellt, aber Sie müssen es auch bereits heute auf github laden. (Dieses AP dauert ausnahmsweise nur 15')
-- [ ] Arbeitspaket 3 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten können Sie hier mit dem Coden beginnen, nachdem Sie sich ganz klar überlegt haben, was Ihr erster Schritt ist und den hier als AP festgehalten haben.)
+- [x] Arbeitspaket 3: Die Klassen in den Code notieren
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir Gedanken gemacht, was ich genau für ein RPG machen möchte, und dann ist mir direkt eine meiner Lieblingsserien eingefallen: Voltron. Dann habe ich mir ein grobes Konzept erstellt, wie es ungefähr funktionieren sollte. Dann erstellte ich meine 2 Klassen: Paladins(die Helden) und Zarkons fleet(die Bösen).
 
-☝️ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 ## 29.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
+- [ ] Arbeitspaket 1: Genaue liste von Objekten, Klassen von den Charakteren und Waffen erstellen.
+- [ ] Arbeitspaket 2: Ausplanen wie ich meinen Charakteren ihre Waffen und Fähigkeiten hinzuzufügen.
+- [ ] Arbeitspaket 3: Nach dem Ausplanen, wie ich alle Objekte und Klassen gestalte, setze ich dann diese Idee in meinem Code um.
 
 📵 Eines dieser Arbeitspakete ist offline.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
