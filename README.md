@@ -7,8 +7,8 @@
 1. Für welches der drei Projekte haben Sie sich entschieden?
    *Vorschlag 1 -> RGP*
    
-3. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an?  
-4. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+2. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an?  
+3. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
     *Ich inspiriere mich von der Serie die ich Momentan anschaue(Voltron). In der Serie geht es um 5 Teenagers die in einen galaktischen Krieg hineingeraten und die Piloten von fünf robotischen Löwen werden. Sie werden dann Paladins gennant. Meine Idee wäre dann das man von den 5 Paladins auswählen kann und auch ihre Waffen und Löwen anwählen und dann werden ihnen die Bösewichte vom galaktischen krieg im weg stehen und sie müssen sie dann bekämpfen.*
 ## 22.8
 
@@ -31,5 +31,6 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
