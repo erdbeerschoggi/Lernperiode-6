@@ -29,14 +29,15 @@ Heute habe ich mir Gedanken gemacht, was ich genau für ein RPG machen möchte, 
 ## 29.8
 
 - [ ] Arbeitspaket 1: Genaue liste von Objekten, Klassen von den Charakteren und Waffen erstellen.
-- [ ] Arbeitspaket 2: Ausplanen wie ich meinen Charakteren ihre Waffen und Fähigkeiten hinzuzufügen.
-- [ ] Arbeitspaket 3: Nach dem Ausplanen, wie ich alle Objekte und Klassen gestalte, setze ich dann diese Idee in meinem Code um.
+- [ ] Arbeitspaket 2: Ausplanen wie ich meinen Charakteren ihre Waffen und Fähigkeiten hinzuzufügen werde.
+- [ ] Arbeitspaket 3: Nach dem Ausplanen, wie ich alle Objekte und Klassen gestalte, dann diese Idee in meinem Code umsetzen.
 
 📵 Eines dieser Arbeitspakete ist offline.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
