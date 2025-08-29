@@ -1,39 +1,48 @@
-﻿using System.Runtime.InteropServices;
-using System.Security.Cryptography.X509Certificates;
-
-namespace RPG
+﻿namespace RPG
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
+            
         }
-    }
 
-    public class Paladins
-    {
-        public Paladins()
+        private class Paladins
         {
             Paladins Lance = new Paladins();
             Paladins Keith = new Paladins();
+            Paladins Shiro = new Paladins();
             Paladins Pidge = new Paladins();
             Paladins Hunk = new Paladins();
-            Paladins Shiro = new Paladins();
+            Paladins Allura = new Paladins();
         }
-    }
 
-    public class ZarkonsFleet 
-    {
-        public ZarkonsFleet()
+        private class ZarkonsFleet
         {
             ZarkonsFleet Zarkon = new ZarkonsFleet();
+            ZarkonsFleet Lotor = new ZarkonsFleet();
             ZarkonsFleet Haggar = new ZarkonsFleet();
             ZarkonsFleet Sendak = new ZarkonsFleet();
-            ZarkonsFleet Lotor = new ZarkonsFleet();
+        }
+
+        private class Weapons
+        {
+            Weapons SniperRifle = new Weapons();
+            Weapons GrapplingHook = new Weapons();
+            Weapons EnergyGun = new Weapons();
+            Weapons EnergySword = new Weapons();
+            Weapons GalraTechArm = new Weapons();
+
+        }
+
+        private class Lions
+        {
+            Lions BlueLion = new Lions();
+            Lions RedLion = new Lions();
+            Lions YellowLion = new Lions();
+            Lions GreenLion = new Lions();
+            Lions BlackLion = new Lions();
         }
 
     }
-
-
 }
