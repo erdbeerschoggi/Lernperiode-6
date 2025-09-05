@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Für welches der drei Projekte haben Sie sich entschieden?
-   *Vorschlag 1 -> RGP*
+   *Vorschlag 1 -> RPG*
    
 2. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an?  
 3. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
@@ -49,6 +49,7 @@ Offline Arbeitspaket:
 - [ ] Arbeitspaket 4: Die verbindung von Attributen und ihren Objekten in den Code implementieren.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
 
 
 
