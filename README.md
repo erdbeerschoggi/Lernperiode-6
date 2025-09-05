@@ -45,10 +45,10 @@ Offline Arbeitspaket:
 
 - [ ] Arbeitspaket 1: Attribute zu den jeweilligen Objekten Hinzufügen.
 - [ ] Arbeitspaket 2: Ein "Drop down menu" erstellen, so dass man alles auswählen kann (z.B. die einzelnen Paladins, ihre Fähigkeiten usw...)
-- [ ] Arbeitspaket 3: Wie ich Attribute mit den Objekten verbinde.
-- [ ] Arbeitspaket 4: Die verbindung von Attributen und ihren Objekten in den Code implementieren.
+- [ ] Arbeitspaket 3: Die verbindung von Attributen und ihren Objekten in den Code implementieren.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
 
 
 
