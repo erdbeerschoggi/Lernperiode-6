@@ -45,13 +45,16 @@ Offline Arbeitspaket:
 
 - [x] Arbeitspaket 1: Attribute zu den jeweilligen Objekten Hinzufügen.
 - [x] Arbeitspaket 2: Die verbindung von Attributen und ihren Objekten in den Code implementieren.
-- [ ] Arbeitspaket 3: Ein "Drop down menu" erstellen, so dass man alles auswählen kann (z.B. die einzelnen Paladins, ihre Fähigkeiten usw...)
-- [ ] Arbeitspaket 4: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
+- [ ] Arbeitspaket 3: Ein "Drop down menu" erstellen, so dass man alles auswählen kann (z.B. die einzelnen Paladins, ihre Fähigkeiten usw...) -> Offline Arbeitspaket
+- [ ] Arbeitspaket 4: Das Dropdown Menu vom Offline Paket in meinen Code implementieren 
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
+## 12.09
+
+- [ ] Arbeitspaket 1: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
 
 
 
