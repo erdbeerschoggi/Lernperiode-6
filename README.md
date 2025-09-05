@@ -48,15 +48,18 @@ Offline Arbeitspaket:
 - [ ] Arbeitspaket 3: Ein "Drop down menu" erstellen, so dass man alles auswählen kann (z.B. die einzelnen Paladins, ihre Fähigkeiten usw...) -> Offline Arbeitspaket
 - [ ] Arbeitspaket 4: Das Dropdown Menu vom Offline Paket in meinen Code implementieren 
 
+Offline Arbeitspaket:
+![offlineArbeitspaket05 09](https://github.com/user-attachments/assets/764d68a6-cf2c-4933-83d7-a7336e838097)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich Attribute zu den Objekten hinzugefügt, jedoch bin ich mir sehr unsicher, ob ich es richtig gemacht habe. Deswegen muss ich das noch überprüfen. Ich habe auch überlegt, wie ich ein Dropdown-Menü machen wollte, und dachte mir, dass man definitiv etwas mit Zahlen machen sollte und vielleicht eine If-Schleife, aber die If-Schleife wäre vielleicht ein wenig aufwändig, deswegen suchte ich nach einer besseren Lösung, aber fand noch keine, die funktionierte.
 
 
 ## 12.09
 
-- [ ] Arbeitspaket 1: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
-
-
+- [ ] Arbeitspaket 1: Überprüfen ob ich die Attribute zu den Objekten richtig hinzugefügt habe.
+- [ ] Arbeitspaket 2: Eine Löung für das Dropdown-Menü finden und sie in den Code implementieren.
+- [ ] Arbeitspaket 3: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
+- [ ] Arbeitspaket 4: Wie man das Kampfsystem darstellen sollte: z.B. nur mit Namen, XP....?
 
 
 
