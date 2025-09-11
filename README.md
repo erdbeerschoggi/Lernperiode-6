@@ -57,12 +57,24 @@ Heute habe ich Attribute zu den Objekten hinzugefügt, jedoch bin ich mir sehr u
 
 ## 12.09
 
-- [ ] Arbeitspaket 1: Überprüfen ob ich die Attribute zu den Objekten richtig hinzugefügt habe.
-- [ ] Arbeitspaket 2: Eine Löung für das Dropdown-Menü finden und sie in den Code implementieren.
-- [ ] Arbeitspaket 3: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
-- [ ] Arbeitspaket 4: Wie man das Kampfsystem darstellen sollte: z.B. nur mit Namen, XP....?
+- [x] Arbeitspaket 1: Überprüfen ob ich die Attribute zu den Objekten richtig hinzugefügt habe.
+- [x] Arbeitspaket 2: Eine Lösung für das Dropdown-Menü finden und sie in den Code implementieren.
+- [x] Arbeitspaket 3: Methoden erstellen -> z.B. so dass die Charaktere kämpfen können. (Offline Arbeitspaket)
+- [ ] Arbeitspaket 4: Ein Kampfsystem erstellen, so das sich die Helden un Bösewichte bekämpfen können.
+
+Heute habe ich meine Attribute und Objekte verbessert, da ich sie in meinem Code falsch hatte. Dann habe ich eine Lösung für das Drop-down-Menü gefunden, nach ein wenig Recherche, und implementierte das in meinen Code. Nachher habe ich mir überlegt, welche Methoden ich in meinen Code hinzufügen möchte.
+
+Mein Offline Arbeitspaket:
+![MethodenImplementierenLA6](https://github.com/user-attachments/assets/59516343-94c6-4fcd-89c0-446fb10c4948)
 
 
+
+## 11.09
+
+- [ ] Arbeitspaket 1: Methoden erstellen
+- [ ] Arbeitspaket 2: Den Methoden Funktionen zuweisen (offline Arbteitspaket)
+- [ ] Arbeitspaket 3: Methoden Funktionen in meinen code implementieren
+- [ ] Arbeitspaket 4: Ein Kampfsystem mit den erstellten Methoden machen. 
 
 
 
