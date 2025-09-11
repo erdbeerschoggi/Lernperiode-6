@@ -37,7 +37,7 @@ namespace RPG
 
 
             //The Code
-            // Liste aller Paladins
+            
             List<Paladins> paladins = new List<Paladins>
             {
                 Lance, Keith, Shiro, Pidge, Hunk, Allura
@@ -50,11 +50,11 @@ namespace RPG
                 Console.WriteLine($"{i + 1}. {paladins[i].Name}");
             }
 
-            // Eingabe lesen
+            
             Console.Write("Deine Auswahl: ");
             int auswahl = Convert.ToInt32(Console.ReadLine()) - 1;
 
-            // Gewählten Paladin + Attribute anzeigen
+            
             if (auswahl >= 0 && auswahl < paladins.Count)
             {
                 Paladins selected = paladins[auswahl];
