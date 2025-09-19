@@ -72,9 +72,10 @@ Mein Offline Arbeitspaket:
 ## 11.09
 
 - [ ] Arbeitspaket 1: Methoden erstellen
-- [ ] Arbeitspaket 2: Den Methoden Funktionen zuweisen (offline Arbteitspaket)
+- [ ] Arbeitspaket 2: Den Methoden Funktionen zuweisen 
 - [ ] Arbeitspaket 3: Methoden Funktionen in meinen code implementieren
 - [ ] Arbeitspaket 4: Ein Kampfsystem mit den erstellten Methoden machen. 
+
 
 
 
