@@ -36,8 +36,9 @@ namespace RPG
             Lions BlackLion = new Lions("Black Lion", "Black", "Wings - Extra strength and speed");
 
 
+
             //The Code
-            
+
             List<Paladins> paladins = new List<Paladins>
             {
                 Lance, Keith, Shiro, Pidge, Hunk, Allura
@@ -70,73 +71,11 @@ namespace RPG
             {
                 Console.WriteLine("Ungültige Auswahl!");
             }
-        }
 
-
-        public class Paladins 
-        {
-            public string Name { get; set; }
-            public int Health { get; set; }
-            public string Teamrole { get; set; }
-            public string Lion { get; set; }
-            public string Weapon { get; set; }
-
-
-            public Paladins(string name, int health, string teamrole, string lion, string weapon) 
-            {
-                Name = name;
-                Health = health;
-                Teamrole = teamrole;
-                Lion = lion;
-                Weapon = weapon;
-
-            }
             
+
         }
 
-        public class ZarkonsFleet
-        {
-            public string Name { get; set; }
-            public int Health { get; set; }
-            public string Teamrole { get; set; }
-            public string Weapon { get; set; }
-
-            public ZarkonsFleet(string name, int health, string teamrole, string weapon) 
-            {
-                Name = name;
-                Health = health;
-                Teamrole = teamrole;
-                Weapon = weapon;
-                
-            }
-            
-        }
-
-        public class Weapons
-        {
-            public string WeaponName { get; set;}
-            public string Ability { get; set;}
-
-            public Weapons(string weaponName, string ability)
-            {
-                WeaponName = weaponName;
-                Ability = ability;
-            }
-        }
-
-        public class Lions
-        {
-            public string Name { get; set;}
-            public string Lioncolour { get; set;}
-            public string LionAbilitys { get; set;}
-
-            public Lions(string name, string lioncolour, string lionAbility)
-            {
-                Name = name;
-                Lioncolour = lioncolour;
-                LionAbilitys = lionAbility;
-            }
-        }
 
     }
 }
