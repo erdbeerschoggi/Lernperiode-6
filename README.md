@@ -71,13 +71,17 @@ Mein Offline Arbeitspaket:
 
 ## 11.09
 
-- [ ] Arbeitspaket 1: Methoden erstellen
-- [ ] Arbeitspaket 2: Den Methoden Funktionen zuweisen 
-- [ ] Arbeitspaket 3: Methoden Funktionen in meinen code implementieren
-- [ ] Arbeitspaket 4: Ein Kampfsystem mit den erstellten Methoden machen. 
+- [x] Arbeitspaket 1: Methoden erstellen
+- [x] Arbeitspaket 2: Den Methoden jeweils Funktionen zuweisen, so das man diese auch wirklich im programm anwenden kann.
+- [ ] Arbeitspaket 3: Methoden Funktionen in meinen code implementieren.
+- [ ] Arbeitspaket 4: Ein Kampfsystem mit den erstellten Methoden machen.
+
+Heute habe ich Methoden und ihre Funktionien zugewiesen. Ich weiss jedoch noch nicht ob diese funktionieren da ich den Code für das Kampfsystem nicht schreiben konnte. Ich habe mir dem angefangen in dem ich nachgedacht habe wie und auch rechechiert habe, doch ich konnte es nicht richtig umsetzen da ich es falsch umsetzte deswegen werde ich das dass nächste mal genau anschauen und probieren fertig zu bringen.
 
 
+## 17.10
 
-
-
+- [ ] Arbeitspaket 1: Ein Kampfsystem mit den erstellten Methoden machen.
+- [ ] Arbeitspaket 2: Code auspolieren, darstellung verschönern 
+- [ ] Arbeitspaket 3: Reflexion des Projekts
 
